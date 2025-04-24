@@ -1,2 +1,3 @@
 # ML-Project
 Car Price Prediction in the US Market Using Regression Models
+This project aims to build predictive models to estimate car prices in the US market using various machine learning regression techniques. A Chinese automobile company planning to enter the American market seeks to understand the key factors influencing car pricing. By analyzing a comprehensive dataset of car features and specifications, this project identifies the most significant variables affecting price, compares multiple regression models, and highlights the best-performing model. The insights derived will support strategic decisions in design, manufacturing, and market positioning.
